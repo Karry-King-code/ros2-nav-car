@@ -1,0 +1,2 @@
+../Devices/Encoder/Encoder.c:10:6:Encoder_Init	8	static
+../Devices/Encoder/Encoder.c:22:6:Encoder_Read	32	static

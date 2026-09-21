@@ -1,0 +1,2 @@
+../Devices/Encoder/Encoder.c:10:6:Encoder_Init	1
+../Devices/Encoder/Encoder.c:22:6:Encoder_Read	5
